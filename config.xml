@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Development Effor 20160830</name>
 
     <description>
-        Sample application in hte making 
+        Sample application developed on 20161830
     </description>
 
-    <author href="http://example.com" email="asupport@example.com">
-        PhoneGap Team
+    <author href="http://example.com" email="myself@example.com">
+        Me Myself
     </author>
 
     <!--
@@ -45,6 +45,7 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
+    <!--
     <plugin name="cordova-plugin-battery-status" />
     <plugin name="cordova-plugin-camera" />
     <plugin name="cordova-plugin-media-capture" />
@@ -62,7 +63,7 @@
     <plugin name="cordova-plugin-media" />
     <plugin name="cordova-plugin-network-information" />
     <plugin name="cordova-plugin-splashscreen" />
-    <plugin name="cordova-plugin-vibration" />
+    <plugin name="cordova-plugin-vibration" />-->
     <plugin name="com.brodysoft.sqliteplugin" spec="1.0.6" source="pgb" />
 
     <!-- Third party plugins -->
